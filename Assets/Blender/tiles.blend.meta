@@ -1,0 +1,355 @@
+fileFormatVersion: 2
+guid: 5e8936cc5524d0540a2c11cd77cd162a
+timeCreated: 1523313890
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Plane
+    100002: Plane_001
+    100004: Plane_002
+    100006: Plane_003
+    100008: Plane_004
+    100010: Plane_005
+    100012: Plane_006
+    100014: Plane_007
+    100016: Plane_008
+    100018: Plane_009
+    100020: Plane_010
+    100022: Plane_011
+    100024: Plane_014
+    100026: Plane_015
+    100028: //RootNode
+    100030: Plane_012
+    100032: Plane_013
+    100034: Plane_016
+    100036: Plane_017
+    100038: Fence
+    100040: TileBarn
+    100042: TileBlank
+    100044: TileFeet
+    100046: TileFeetR
+    100048: TileGrass
+    100050: TileGrassEaten
+    100052: TileTracks
+    100054: TileTracksR
+    100056: TileTree
+    100058: TileTracksU
+    400000: Plane
+    400002: Plane_001
+    400004: Plane_002
+    400006: Plane_003
+    400008: Plane_004
+    400010: Plane_005
+    400012: Plane_006
+    400014: Plane_007
+    400016: Plane_008
+    400018: Plane_009
+    400020: Plane_010
+    400022: Plane_011
+    400024: Plane_014
+    400026: Plane_015
+    400028: //RootNode
+    400030: Plane_012
+    400032: Plane_013
+    400034: Plane_016
+    400036: Plane_017
+    400038: Fence
+    400040: TileBarn
+    400042: TileBlank
+    400044: TileFeet
+    400046: TileFeetR
+    400048: TileGrass
+    400050: TileGrassEaten
+    400052: TileTracks
+    400054: TileTracksR
+    400056: TileTree
+    400058: TileTracksU
+    2100000: Material_014
+    2100002: Material_013
+    2100004: Material_012
+    2100006: Material_017
+    2100008: Material_015
+    2100010: Material_016
+    2100012: Material_009
+    2100014: Material_010
+    2100016: Material_008
+    2100018: Material_011
+    2100020: Material_007
+    2100022: Material_006
+    2100024: Material_003
+    2100026: Material_004
+    2100028: Material_005
+    2100030: Material_001
+    2100032: Material_002
+    2100034: Material_019
+    2100036: Material_018
+    2100038: Material_020
+    2100040: Material_000
+    2100042: TilesTex__TilesPalette_png
+    2100044: TilesTex
+    2300000: Plane
+    2300002: Plane_001
+    2300004: Plane_002
+    2300006: Plane_003
+    2300008: Plane_004
+    2300010: Plane_005
+    2300012: Plane_006
+    2300014: Plane_007
+    2300016: Plane_008
+    2300018: Plane_009
+    2300020: Plane_010
+    2300022: Plane_011
+    2300024: Plane_014
+    2300026: Plane_015
+    2300028: Plane_012
+    2300030: Plane_013
+    2300032: Plane_016
+    2300034: Plane_017
+    2300036: Fence
+    2300038: TileBarn
+    2300040: TileBlank
+    2300042: TileFeet
+    2300044: TileFeetR
+    2300046: TileGrass
+    2300048: TileGrassEaten
+    2300050: TileTracks
+    2300052: TileTracksR
+    2300054: TileTree
+    2300056: TileTracksU
+    3300000: Plane
+    3300002: Plane_001
+    3300004: Plane_002
+    3300006: Plane_003
+    3300008: Plane_004
+    3300010: Plane_005
+    3300012: Plane_006
+    3300014: Plane_007
+    3300016: Plane_008
+    3300018: Plane_009
+    3300020: Plane_010
+    3300022: Plane_011
+    3300024: Plane_014
+    3300026: Plane_015
+    3300028: Plane_012
+    3300030: Plane_013
+    3300032: Plane_016
+    3300034: Plane_017
+    3300036: Fence
+    3300038: TileBarn
+    3300040: TileBlank
+    3300042: TileFeet
+    3300044: TileFeetR
+    3300046: TileGrass
+    3300048: TileGrassEaten
+    3300050: TileTracks
+    3300052: TileTracksR
+    3300054: TileTree
+    3300056: TileTracksU
+    4300000: Plane_009
+    4300002: Plane_015
+    4300004: Plane_014
+    4300006: Plane_011
+    4300008: Plane_010
+    4300010: Plane_008
+    4300012: Plane_007
+    4300014: Plane_006
+    4300016: Plane_005
+    4300018: Plane_004
+    4300020: Plane_003
+    4300022: Plane_002
+    4300024: Plane_001
+    4300026: Plane
+    4300028: Plane_013
+    4300030: Plane_012
+    4300032: Plane_017
+    4300034: Plane_016
+    4300036: TileGrassEaten
+    4300038: Fence
+    4300040: TileBlank
+    4300042: TileTracksR
+    4300044: TileTracks
+    4300046: TileBarn
+    4300048: TileFeetR
+    4300050: TileFeet
+    4300052: TileTree
+    4300054: TileGrass
+    4300056: TileTracksU
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: TileBarn
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_001
+    second: {fileID: 2100000, guid: 5af7647f855e5434d8550762517d7a59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_002
+    second: {fileID: 2100000, guid: 7f181b7c2758e9f4285730b40dc0fed3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_003
+    second: {fileID: 2100000, guid: d72c42d7c5343b24b832cbc6cfc18941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_004
+    second: {fileID: 2100000, guid: 4b7f47b45a9cd5448afd2c6747f0e811, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_005
+    second: {fileID: 2100000, guid: 0d0468b5694de064d8a96deecc3db31f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_006
+    second: {fileID: 2100000, guid: 37fdc26e6525213419b708bcad45a96d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_007
+    second: {fileID: 2100000, guid: 4c1585f6e6aca564bad95e9eb99d0071, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_008
+    second: {fileID: 2100000, guid: e8b55cc796708b8498388fa8d4098ab2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_009
+    second: {fileID: 2100000, guid: a6c7350ae92834546846370a4cbf648a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_010
+    second: {fileID: 2100000, guid: 615547dac3fb11143a0abf4cc4dfba8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_011
+    second: {fileID: 2100000, guid: 14619cefcc97e26409c70d574d2f42ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_012
+    second: {fileID: 2100000, guid: 2043c1b4d68c6a944bd86de01684e422, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_013
+    second: {fileID: 2100000, guid: 1d1cd84fc1e46e448a87c154b3200826, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_014
+    second: {fileID: 2100000, guid: d6ed25ff760127c42901808823ed2159, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_015
+    second: {fileID: 2100000, guid: 22a8f32f50e79714d883c060dac43469, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_016
+    second: {fileID: 2100000, guid: 2001960f3c128b84d953c7c07f3e7dc7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_017
+    second: {fileID: 2100000, guid: b8860177ba115fa4db1460ac9112e18f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_018
+    second: {fileID: 2100000, guid: ff82712918c2c2145a9449385a5ef126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material_019
+    second: {fileID: 2100000, guid: bae200547a5bb97479469d99640a7143, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

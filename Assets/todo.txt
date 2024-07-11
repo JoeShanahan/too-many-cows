@@ -1,0 +1,8 @@
+stop arrow key movement while on tutorial text
+press space or enter to dismiss tutorial text
+
+make cows go into barn not middle of tile
+fix the text on the barn not scaling properly
+make the advanced buttons only press when released
+
+some obscure way of deleting data

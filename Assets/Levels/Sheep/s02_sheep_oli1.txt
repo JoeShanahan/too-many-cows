@@ -1,0 +1,24 @@
+{
+	"numCows": 2,
+	"moveCount": 20,
+	"startPos": [0,1],
+	"levelSize": [4, 6],
+	"tiles": [
+			"start,0,0",
+			"end,3,0",
+			"grass,0,5"
+
+		],
+	"tractors":[],
+	"fences":[
+			"1,0,2,0",
+			"1,1,2,1",
+			"1,2,2,2",
+			"1,3,2,3"
+		],
+	"sheep":[
+			"2,1,5,WNNESENESSWW",
+			"2,2,4,NESSWWWNNESE"
+		]
+
+}
